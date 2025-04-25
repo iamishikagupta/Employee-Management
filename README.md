@@ -1,5 +1,6 @@
-# Employee-Management
-# Employee Management System - Angular Application  The Employee Management System is a robust Angular application designed to streamline and simplify the management of employee data. This project incorporates Angular Material UI for a modern and user-friendly interface.
+# Employee Management System - Angular Application
+
+The Employee Management System is a robust Angular application designed to streamline and simplify the management of employee data. This project incorporates Angular Material UI for a modern and user-friendly interface.
 
 ## Features
 
@@ -12,9 +13,8 @@
 
 To get started with the Employee Management System:
 
-1. Clone the repository: 
+1. Clone the repository: https://github.com/iamishikagupta/Employee-Management.git
 2. Install the necessary dependencies: `npm install`
 3. Run the application locally: `ng serve`
 4. Access the application in your browser at `http://localhost:4200`
-
 
